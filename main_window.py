@@ -1,6 +1,6 @@
 import tkinter.ttk as ttk
 from scapy.layers.inet import IP
-from scapy.all import sr1, send
+from scapy.all import sr1
 import psutil
 
 from tabs.ip_tab import *
